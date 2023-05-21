@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! me chamo Ana 👋
 
-<!--
-**anacristinademoura/anacristinademoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p>Estou começando a minha jornada pela carreira de desenvolvedor front-end</p>
+  <div>
+    <a href=""></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacristinademoura&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinademoura&layout-compact&langs-count=16&theme=tokyonight" />
+  </div>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+
+<div>
+  <a href="anacristinadmoura@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://mail.google.com/mail/u/1/#inbox](https://www.linkedin.com/in/anacristinadmoura/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
