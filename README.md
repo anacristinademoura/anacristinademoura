@@ -2,7 +2,7 @@
 
 <div>
   <p>Estou começando a minha jornada pela carreira de desenvolvedor front-end</p>
-  <p>Me dedicando muito para a minha primeira vaga na área</p>
+  <p>Usando todo o meu tempo livre para estudar</p>
   <div>
     <a href=""></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacristinademoura&show_icons=true&theme=tokyonight" />
