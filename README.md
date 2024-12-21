@@ -1,7 +1,7 @@
 ### Olá! me chamo Ana 👋
 
 <div>
-  <p>◻ Estou começando a minha jornada pela carreira de desenvolvedor.</p>
+  <p>◻ Estou começando a minha jornada na carreira de TI</p>
   <p>◻ Cursando Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio.</p>
   <div>
     <a href=""></a>
