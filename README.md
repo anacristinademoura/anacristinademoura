@@ -2,7 +2,7 @@
 
 <div>
   <p>◻ Estou começando a minha jornada na carreira de TI</p>
-  <p>◻ Cursando Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade na área da tecnologia.</p>
+  <p>◻ Atualmente cursando Análise e Desenvolvimento de Sistemas e Treinee</p>
 </div>
 
 <div>
