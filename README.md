@@ -29,7 +29,4 @@ Meu foco é evoluir como **desenvolvedora fullstack** e mostrar minha evolução
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div> -->
 
-
-<hr>
-
   📫 Me encontre também no [LinkedIn](https://www.linkedin.com/in/anacristinadmoura/)
