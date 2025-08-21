@@ -1,8 +1,8 @@
 <h1>Olá! me chamo Ana 👋</h1>
 
-🚀 Atualmente trabalho na [Vsoltech](https://vsol.com.br/) como desenvolvedora Flutter.
-📚 Estou sempre aprendendo mais sobre **arquitetura limpa e boas práticas**.  
-🎯 Objetivo: crescer como desenvolvedora fullstack, criando aplicações Moble/Desktop estruturadas e escaláveis.  
+- 🚀 Atualmente trabalho na [Vsoltech](https://vsol.com.br/) como desenvolvedora Flutter.
+- 📚 Estou sempre aprendendo mais sobre **arquitetura limpa e boas práticas**.  
+- 🎯 Objetivo: crescer como desenvolvedora fullstack, criando aplicações Moble/Desktop estruturadas e escaláveis.  
 
 ## 🚀 Tecnologias e Ferramentas
 - **Linguagens:** Dart, JavaScript (básico)  
