@@ -32,6 +32,4 @@ Meu foco é evoluir como **desenvolvedora fullstack** e mostrar minha evolução
 
 <hr>
 
-<div>
-  📫 Me encontre também no <a href="https://www.linkedin.com/in/anacristinadmoura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+  📫 Me encontre também no [LinkedIn](https://www.linkedin.com/in/anacristinadmoura/)
